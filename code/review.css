@@ -1,0 +1,13 @@
+
+body{
+    background-image: url("1.jpg");
+}
+h1{
+    color: blue;
+    text-align: center;
+
+}
+fieldset{
+    color:red;
+    text-align: center;
+}
